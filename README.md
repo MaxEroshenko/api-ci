@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/pf8yggeegwe56a8f?svg=true)](https://ci.appveyor.com/project/MaxEroshenko/git-homeworks-neuro-merge)
+[![Build status](https://ci.appveyor.com/api/projects/status/5p8oroxcwwxwksab?svg=true)](https://ci.appveyor.com/project/MaxEroshenko/api-ci)
